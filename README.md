@@ -1,8 +1,8 @@
-# Bootcamp: Coding the future
-
 <p align="center">
 <img src="logo_bootcamp.png" alt="Logo de Bootcamp" width="500" ali>
 </p>
+
+# Bootcamp: Coding the future
 Repositorio del curso Bootcamp Coding the Future, aquí encontraras el código fuente de todos los programas vistos durante las sesiones y sus respecitvos diagramas.
 
 Es importante que desactives la traducción automática de Inglés a Español sino el código será traducido y por ende inutilizable. Podrás seleccionar el código, copiarlo y pegarlo en el editor del IDE o descargar directamente el archivo que necesites.
