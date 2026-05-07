@@ -21,3 +21,6 @@ Es importante que desactives la traducción automática de Inglés a Español si
     * [Ejercicio 2. ELSE-IF](Clase%203/Ejercicio%202.%20ELSE-IF/)
     * [Ejercicio 3. SWITCH-CASE](Clase%203/Ejercicio%203.%20SWITCH-CASE/)
 * [**Clase 4. Estructuras de Control Repetitivas**](Clase%204/)
+    * [Ejercicio 1. FOR](Clase%204/Ejercicio%201.%20FOR/)
+    * [Ejercicio 2. WHILE](Clase%204/Ejercicio%202.%20WHILE/)
+    * [Ejercicio 3. DO-WHILE](Clase%204/Ejercicio%203.%20DO-WHILE/)
