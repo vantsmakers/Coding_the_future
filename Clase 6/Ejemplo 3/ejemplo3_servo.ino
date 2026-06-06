@@ -2,7 +2,7 @@
 #include <NewPing.h>
 
 Servo servo1;
-#define PINSERVO 2
+#define PINSERVO 3
 #define TRIG_PIN 10
 #define ECHO_PIN 9
 #define LED_PIN 3
