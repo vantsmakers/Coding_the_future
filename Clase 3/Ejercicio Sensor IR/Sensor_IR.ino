@@ -1,6 +1,6 @@
 // Definir las conexiones de los pines 
 const int irSensorPin = 7; // Pin de salida del sensor IR conectado al pin digital 7 
-const int ledPin = 13; // LED conectado al pin digital 13 (opcional) 
+const int ledPin = 9; // LED conectado al pin digital 9 (opcional) 
 
 void setup() { 
   pinMode(irSensorPin, INPUT); // Configurar el pin del sensor IR como entrada 
