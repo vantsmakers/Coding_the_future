@@ -22,7 +22,7 @@ void loop() {
 
   int distancia = duracion / 58.2;; // Variable para almacenar la distancia calculada
   Serial.print("Distancia: ");
-  Serial.print(distance);
+  Serial.print(distancia);
   Serial.println(" cm");
 
   delay(500);
